@@ -1,16 +1,16 @@
 {
-  "name": "asta-botto",
-  "description": "Simple WhatsApp Botto.",
-  "logo": "https://i.imgur.com/JMsAFRD.jpeg",
-  "keywords": "Asta",
-  "success_url": "/astro/",
+  "name": "king-mcross",
+  "description": "Simple WhatsApp Boobie BoT.",
+  "logo": "https://telegra.ph/file/8402ed4f07ea7f3b72ee7.jpg",
+  "keywords": "Mcross",
+  "success_url": "/mcross/",
   "app_url": "/qr/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "Astro",
+      "value": "𝚳𝐂𝚪𝚯𝐒𝐒🌹",
       "required": true
     },
 
@@ -28,7 +28,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "ᴀsᴛᴀ-ᴍᴅ"
+      "value": "𝚳𝐂𝚪𝚯𝐒𝐒-𝚳𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -57,7 +57,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "HRKU-28110cf6-6691-4aab-a947-32768be65671",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348039607375"
+      "value": "2349042566473"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -104,7 +104,7 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
+      "value": "OPENAI_API_KEY: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",
       "required": false
     },
     "ELEVENLAB_API_KEY": {
@@ -123,12 +123,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Asta Md",
+      "value": "𝚳𝐂𝚪𝚯𝐒𝐒-𝚳𝐃",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𝚳𝐂𝚪𝚯𝐒𝐒-𝚳𝐃",
       "required": false
     },
     "MONGODB_URI": {
@@ -143,22 +143,22 @@
     },
     "SUDO": {
       "description": "Sudo Numbers",
-      "value": "",
+      "value": "2349042566473",
       "required": false
     },
     "USER_IMAGES": {
       "description": "Menu Images",
-      "value": "",
+      "value": "https://telegra.ph/file/8402ed4f07ea7f3b72ee7.jpg",
       "required": false
     },
     "MENU": {
       "description": "V1 or V2 Menu Types leave empty for random",
-      "value": "",
+      "value": "V1",
       "required": false
     },
     "GURL": {
       "description": "Your Channel Link",
-      "value": "",
+      "value": "https://Wa.me/2349042566473?text=Boss%20ＫＩＮＧ🍀Ｍ-ＣＲＯＳＳ%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅",
       "required": false
     }
   },
